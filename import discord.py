@@ -95,4 +95,4 @@ async def co2(ctx, km: float):
     await ctx.send(f"🚶‍♂️ Jeśli przejdziesz {km:.1f} km pieszo zamiast jechać autem, zaoszczędzisz {oszczednosc:.2f} kg CO₂!")
 
 # ⛔ Wklej swój token tutaj:
-bot.run("")
+bot.run("TU_WSTAW_TOKEN_BOTA")
